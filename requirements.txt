@@ -1,0 +1,27 @@
+fastapi
+uvicorn
+sqlalchemy[asyncio]
+pydantic
+pydantic-settings
+alembic
+pymongo
+motor 
+python-dotenv
+loguru
+fastapi
+uvicorn[standard]
+httpx
+twilio
+python-dotenv
+aiohttp
+aioredis   # or redis >= 4.0 (aioredis merged). We'll use redis.asyncio
+redis>=4.5.0
+prometheus-client
+python-json-logger
+sqlalchemy[asyncio]
+alembic
+pydantic-settings
+tenacity
+python-multipart
+REQ
+scikit-learn==1.5.1              # TF-IDF + cosine similarity
